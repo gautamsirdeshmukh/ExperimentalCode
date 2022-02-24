@@ -1,9 +1,9 @@
-## Experimental Code
+# Experimental Code
 Experimental, purely thought-based programs. Just trying things out.
 
 
 
-# WordleSolver.py
+## WordleSolver.py
 
 1. Download WordleSolver.py
 2. Download lowerwords.txt from Data folder [to the same location as WordleSolver.py]
