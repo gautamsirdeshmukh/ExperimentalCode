@@ -1,7 +1,7 @@
 def create():
     import sys
     # words = open(sys.argv[1], "r")
-    words = open("lowerwords.txt")
+    words = open("data/lowerwords.txt")
     words = [w[:-1].upper() for w in words if len(w) == 6]
     ret = []
     for word in words:
