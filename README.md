@@ -1,5 +1,5 @@
 # Experimental Code
-Experimental, purely thought-based programs. Just trying things out.
+Experimental, purely thought-based programs. Just trying things out that come to mind.
 
 
 
